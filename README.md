@@ -1,9 +1,5 @@
 # Basic testing
 
-⚠️ DO NOT SUBMIT PULL REQUESTS TO THIS REPO ⚠️
-
----
-
 ### Prerequisites
 1. Install [Node.js](https://nodejs.org/en/download/)   
 2. Fork this repository: https://github.com/AlreadyBored/basic-testing
